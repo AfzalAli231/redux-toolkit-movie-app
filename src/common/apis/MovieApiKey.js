@@ -1,1 +1,1 @@
-export const APIKey = 23f1fed;
+export const APIKey = "23f1fed";
